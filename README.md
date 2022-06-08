@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtyomKutsko
+- 👋 Hi, I’m @ArtyomKutsko IT Recruiter/Hr Manager
 - 👀 I’m interested Tech lead (Team Lead, Laravel) 
 - 🌱 I’m currently learning Recruitment 
 - 💞️ I’m looking to collabo Tech lead (Team Lead, Laravel) 
